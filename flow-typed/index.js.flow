@@ -1,0 +1,5 @@
+// @flow
+
+declare export function gemboy(): string;
+declare export var hello: string;
+declare export function hi(): string;
