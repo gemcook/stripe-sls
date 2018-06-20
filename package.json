@@ -1,6 +1,6 @@
 {
   "name": "@gemcook/stripe-sls",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "repository": "https://github.com/gemcook/stripe-sls.git",
   "author": "shsssskn <s.nishino@gemcook.com>",
