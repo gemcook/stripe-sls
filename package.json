@@ -2,7 +2,7 @@
   "name": "@gemcook/stripe-sls",
   "version": "0.1.0",
   "main": "lib/index.js",
-  "repository": "https://shsssskn@github.com/gemcook/stripe-sls.git",
+  "repository": "https://github.com/gemcook/stripe-sls.git",
   "author": "shsssskn <s.nishino@gemcook.com>",
   "license": "MIT",
   "files": [

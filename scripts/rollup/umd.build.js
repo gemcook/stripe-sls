@@ -51,7 +51,7 @@ async function build() {
     bundle.write({
       format: 'umd',
       file: resolvePath('lib/index.js'),
-      name: '@gemcook/cognito-trigger-sls',
+      name: '@gemcook/stripe-sls',
       sourcemap: true,
     });
   } catch (error) {
