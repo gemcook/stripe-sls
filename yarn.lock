@@ -815,6 +815,10 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
+"@gemcook/sls-utils@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@gemcook/sls-utils/-/sls-utils-1.0.0.tgz#d2b6b5aa5de58c7b5be5f440f701ca75d4eed30f"
+
 "@types/estree@0.0.39":
   version "0.0.39"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.39.tgz#e177e699ee1b8c22d23174caaa7422644389509f"

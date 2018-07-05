@@ -52,5 +52,7 @@
     "build:umd": "node ./scripts/rollup/umd.build.js",
     "prepublishOnly": "make prepublish"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@gemcook/sls-utils": "^1.0.0"
+  }
 }
